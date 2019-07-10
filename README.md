@@ -2,11 +2,12 @@
 
 Digit Recognition made with Keras and MNIST database
 
+
 **Technologies Used**
 - Python
 - Keras
 - Tensorflow
-
+- CNN
 
 ### Installation
 
